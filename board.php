@@ -6,20 +6,7 @@
   </head>
   <body>
     <?php
-     
-     $comment = "";
-     $name = "";
-     $pass = "";
-     $delete = "";
-     $delpass = "";
-     $edit = "";
-     $editpass = "";
-     $flag = "";
-
-     $name2 = "";
-     $comment2 = "";
-     $pass2 = "";
-     $number2 = "";
+    
         //DB接続
         
         $dsn= 'mysql:dbname=”DB名”;host="ホスト名";charset=utf8';
